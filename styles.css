@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background-color: lightblue;  /* Added a Dash and Completed the Text adding "Color"*/
+    text-align: center;  /* Added a Dash between Text and align*/
+    font-family: Arial, sans-serif;  /* Added a Dash between font and family*/
+}
+
+h1 {
+    font-size: 24px;  /* Added A Dash Between Font and Sized */
+    color: blue; /* Added A Semi Colon */
+}
+
+.message {
+    font-weight: bold; /* Added a  Semi Color and Dash Between Font and Weight*/
+    color: red;
+}
